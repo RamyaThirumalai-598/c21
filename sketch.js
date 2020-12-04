@@ -12,7 +12,7 @@ function setup() {
   rect1.shapeColor = "green"
   rect2= createSprite(300,400,40,50)
   rect2.shapeColor = "green"
-  //adding comments
+  //adding comments and checking 
 
 }
 
