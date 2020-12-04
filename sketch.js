@@ -1,5 +1,5 @@
 var fixedRect, movingRect,rect1,rect2;
-
+var sling
 function setup() {
   createCanvas(1200,800);
   fixedRect = createSprite(600, 400, 50, 80);
@@ -12,7 +12,7 @@ function setup() {
   rect1.shapeColor = "green"
   rect2= createSprite(300,400,40,50)
   rect2.shapeColor = "green"
-  
+  //adding comments
 
 }
 
