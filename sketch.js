@@ -1,5 +1,5 @@
 var fixedRect, movingRect,rect1,rect2;
-var sling
+
 function setup() {
   createCanvas(1200,800);
   fixedRect = createSprite(600, 400, 50, 80);
